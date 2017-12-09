@@ -70,7 +70,7 @@ Input: Book Ads data from Craigslist
 
 Output:  Ads ( AdID, Keywords, Title, Author, Condition, Price, thumbnail, Description, Contact Info)
 
-```**Ads Classification:** ```
+**```Ads Classification:```**
 
 Input: Keywords, title and description
 
