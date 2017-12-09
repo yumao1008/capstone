@@ -2,7 +2,9 @@ Capstone Project: Book Ads Recommendation System
 ---
 
 
+​    
 
+​   
 # Overview
 
 Crawl book and magazine ads on Craigslist and classify book Ads into three (or more) categories 
@@ -19,7 +21,9 @@ top K similar books in the same category.
 
 
 
+​    
 
+​   
 
 # Main Use Case
 
@@ -96,7 +100,9 @@ Function: Query understand, query classification, select the same category table
 Output: Top K relative Ads from the same table and return them to user
 
 
+​    
 
+​   
 
 
 # Future Work
