@@ -1,6 +1,5 @@
-Capstone project:
-
-Book Ads Recommendation System
+Capstone project: Book Ads Recommendation System
+---
 
 
 
