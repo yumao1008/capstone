@@ -53,7 +53,9 @@ Select top K Ads from the same table and return them to user
 
 ![webcrawler](https://github.com/yumao1008/capstone/blob/master/webcrawler.PNG)
 
+​    
 
+​   
 
 **Search  Engine**
 
