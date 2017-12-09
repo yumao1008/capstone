@@ -48,13 +48,13 @@ Select top K Ads from the same table and return them to user
 
  Web Crawler
 
-![webcrawler](https://github.com/yumao1008/capstone/blob/master/webcrawler.PNGG)
+![webcrawler](https://github.com/yumao1008/capstone/blob/master/webcrawler.PNG)
 
 
 
 Search  Engine
 
-![searchEngine](https://github.com/yumao1008/capstone/blob/master/searchEngine.PN)
+![searchEngine](https://github.com/yumao1008/capstone/blob/master/searchEngine.PNG)
 
 ​   
 
