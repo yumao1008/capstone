@@ -64,7 +64,7 @@ Search  Engine
 
 # Detailed Design
 
-```**Crawler:**  ```
+**```Crawler:```**
 
 Input: Book Ads data from Craigslist 
 
@@ -82,13 +82,13 @@ Output: Category of the book Ads:
 
 (3) Entertainment/Food & Wine/Mystery & Suspense/Romance/Fantasy
 
-```**Data store:**```  
+**```Data store:```**  
 
 Store the Ads into different MySQL tables based on classification.
 
  Ad:  AdID, Keywords, Title, Author, Condition, Price, thumbnail, Description, Contact Info
 
-```**Ads Engine:**``` 
+**```Ads Engine:```**
 
 Input: user query
 
