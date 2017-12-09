@@ -1,4 +1,4 @@
-Capstone project: Book Ads Recommendation System
+Capstone Project: Book Ads Recommendation System
 ---
 
 
